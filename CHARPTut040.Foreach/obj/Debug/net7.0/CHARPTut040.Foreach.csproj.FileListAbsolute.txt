@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\bin\Debug\net7.0\CHARPTut040.Foreach.exe
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\bin\Debug\net7.0\CHARPTut040.Foreach.deps.json
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\bin\Debug\net7.0\CHARPTut040.Foreach.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\bin\Debug\net7.0\CHARPTut040.Foreach.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\bin\Debug\net7.0\CHARPTut040.Foreach.pdb
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\refint\CHARPTut040.Foreach.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.pdb
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\CHARPTut040.Foreach.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CHARPTut040.Foreach\obj\Debug\net7.0\ref\CHARPTut040.Foreach.dll
