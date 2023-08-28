@@ -9,9 +9,35 @@ for (int i = 0; i < numbers.Length; i++)
     Console.Write($" {numbers[i]}");
 }
 
-Console.WriteLine("\n\n Using Foreach");
+Console.WriteLine("\n \n Using Foreach");
 
 foreach (var n in numbers)
 {
     Console.Write($" {n}");
+}
+
+Console.WriteLine("\n\n Using Foreach under the hood");
+Foreach(numbers);
+
+static void Foreach<T>(IEnumerable<T> source)
+{
+    IEnumerator<T> enumerator = source.GetEnumerator();
+    IDisposable disposable;
+    try
+    {
+        T item;
+        while (enumerator.MoveNext())
+        {
+            // code
+            item = enumerator.Current;
+            Console.Write($" {item}");
+        }
+    }
+    finally
+    {
+        disposable = (IDisposable)enumerator;
+        disposable.Dispose();
+    }
+
+
 }
