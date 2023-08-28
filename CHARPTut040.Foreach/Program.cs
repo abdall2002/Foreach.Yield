@@ -19,6 +19,7 @@ foreach (var n in numbers)
 Console.WriteLine("\n\n Using Foreach under the hood");
 Foreach(numbers);
 
+/* ما تحت ال Foreach*/
 static void Foreach<T>(IEnumerable<T> source)
 {
     IEnumerator<T> enumerator = source.GetEnumerator();
@@ -38,6 +39,5 @@ static void Foreach<T>(IEnumerable<T> source)
         disposable = (IDisposable)enumerator;
         disposable.Dispose();
     }
-
 
 }

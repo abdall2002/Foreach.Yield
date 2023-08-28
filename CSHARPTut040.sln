@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHARPTut040.Foreach", "CHARPTut040.Foreach\CHARPTut040.Foreach.csproj", "{5C505152-1F93-49B8-92A3-D601B0C5BE4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARPTut040.Yield", "CSHARPTut040.Yield\CSHARPTut040.Yield.csproj", "{794BFD31-8E3B-4976-94C4-2273A37CF59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C505152-1F93-49B8-92A3-D601B0C5BE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C505152-1F93-49B8-92A3-D601B0C5BE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C505152-1F93-49B8-92A3-D601B0C5BE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794BFD31-8E3B-4976-94C4-2273A37CF59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794BFD31-8E3B-4976-94C4-2273A37CF59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794BFD31-8E3B-4976-94C4-2273A37CF59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794BFD31-8E3B-4976-94C4-2273A37CF59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
