@@ -43,7 +43,7 @@ static IEnumerable<int> GenerateV3()
     yield return 3;
     yield return 4;
     yield return 5;
-    yield break;
+    yield break;       // -> stop yield statement;
     yield return 6;
     yield return 7;
     yield return 8;
