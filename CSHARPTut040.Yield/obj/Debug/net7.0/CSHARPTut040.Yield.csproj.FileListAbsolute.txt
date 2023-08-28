@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.exe
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.deps.json
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\bin\Debug\net7.0\CSHARPTut040.Yield.pdb
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\refint\CSHARPTut040.Yield.dll
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.pdb
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\CSHARPTut040.Yield.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CSHARPTut040\CSHARPTut040.Yield\obj\Debug\net7.0\ref\CSHARPTut040.Yield.dll
